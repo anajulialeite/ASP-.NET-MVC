@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91F7F1-E3D6-43CA-9117-775534B014DF}|LanchesMac\\LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\lanchesmac\\lanchesmac\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C91F7F1-E3D6-43CA-9117-775534B014DF}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91F7F1-E3D6-43CA-9117-775534B014DF}|LanchesMac\\LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\lanchesmac\\lanchesmac\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0C91F7F1-E3D6-43CA-9117-775534B014DF}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91F7F1-E3D6-43CA-9117-775534B014DF}|LanchesMac\\LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\lanchesmac\\lanchesmac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0C91F7F1-E3D6-43CA-9117-775534B014DF}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91F7F1-E3D6-43CA-9117-775534B014DF}|LanchesMac\\LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\lanchesmac\\lanchesmac\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C91F7F1-E3D6-43CA-9117-775534B014DF}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91F7F1-E3D6-43CA-9117-775534B014DF}|LanchesMac\\LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\lanchesmac\\lanchesmac\\lanchesmac.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C91F7F1-E3D6-43CA-9117-775534B014DF}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\lanchesmac.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91F7F1-E3D6-43CA-9117-775534B014DF}|LanchesMac\\LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\lanchesmac\\lanchesmac\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C91F7F1-E3D6-43CA-9117-775534B014DF}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91F7F1-E3D6-43CA-9117-775534B014DF}|LanchesMac\\LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\lanchesmac\\lanchesmac\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91F7F1-E3D6-43CA-9117-775534B014DF}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91F7F1-E3D6-43CA-9117-775534B014DF}|LanchesMac\\LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\lanchesmac\\lanchesmac\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91F7F1-E3D6-43CA-9117-775534B014DF}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C91F7F1-E3D6-43CA-9117-775534B014DF}|LanchesMac\\LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\lanchesmac\\lanchesmac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C91F7F1-E3D6-43CA-9117-775534B014DF}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "LanchesMac\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "LanchesMac\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-04T03:56:35.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-04T03:31:05.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LanchesMac\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LanchesMac\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T03:23:55.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LanchesMac",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
+              "RelativeDocumentMoniker": "LanchesMac\\LanchesMac.csproj",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
+              "RelativeToolTip": "LanchesMac\\LanchesMac.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-04T03:07:19.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LanchesMac\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T03:02:32.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LanchesMac\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T02:57:21.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LanchesMac\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T02:50:28.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Startup.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Startup.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Startup.cs",
+              "RelativeToolTip": "LanchesMac\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T02:43:34.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Program.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Program.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Program.cs",
+              "RelativeToolTip": "LanchesMac\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T02:39:55.553Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

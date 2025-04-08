@@ -62,6 +62,9 @@ C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\LanchesMac\LanchesMac\wwwroot\lib
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\LanchesMac\LanchesMac\wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\Images\carousel11.jpg
+wwwroot\Images\carousel12.jpg
+wwwroot\Images\carousel13.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

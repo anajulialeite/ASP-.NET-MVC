@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Hxp37tAm9f0TwWBRdzCdqYR6nEUeotHG+7sq2mZGg6c=",
+  "Hash": "/01BXJOpEV25Qj6O4Y5aUp8888SHiNDIA5A7ugIwTBI=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -1443,6 +1443,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\wwwroot\\Images\\carousel11.jpg",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "Images/carousel11#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wxvm2hzszd",
+      "Integrity": "NKFdMmDt6Gdt+ORgvSwcQMo5jVhZUrdTe4YyJ441KDQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\carousel11.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\wwwroot\\Images\\carousel12.jpg",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "Images/carousel12#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ksa7mv4br7",
+      "Integrity": "nBt9quXYI+2pv058klVSb5MyZ1h8m/wPrpVDmWacwac=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\carousel12.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\wwwroot\\Images\\carousel13.jpg",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "Images/carousel13#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kve3jk55rw",
+      "Integrity": "EMG7+F6ZRQlQiWtVK0Z30bq3njFt1wyZBjmOGvDUK+E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\carousel13.jpg"
     },
     {
       "Identity": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\wwwroot\\js\\site.js",
@@ -3320,6 +3383,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-jcY0RXFOlcp4VNTCcYQtWVZZBlr+ZY+AOv6/0S5dnF8="
+        }
+      ]
+    },
+    {
+      "Route": "Images/carousel11.jpg",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\wwwroot\\Images\\carousel11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11321"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NKFdMmDt6Gdt+ORgvSwcQMo5jVhZUrdTe4YyJ441KDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 19:51:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NKFdMmDt6Gdt+ORgvSwcQMo5jVhZUrdTe4YyJ441KDQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/carousel11.wxvm2hzszd.jpg",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\wwwroot\\Images\\carousel11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11321"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NKFdMmDt6Gdt+ORgvSwcQMo5jVhZUrdTe4YyJ441KDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 19:51:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wxvm2hzszd"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/carousel11.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NKFdMmDt6Gdt+ORgvSwcQMo5jVhZUrdTe4YyJ441KDQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/carousel12.jpg",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\wwwroot\\Images\\carousel12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nBt9quXYI+2pv058klVSb5MyZ1h8m/wPrpVDmWacwac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 19:51:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nBt9quXYI+2pv058klVSb5MyZ1h8m/wPrpVDmWacwac="
+        }
+      ]
+    },
+    {
+      "Route": "Images/carousel12.ksa7mv4br7.jpg",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\wwwroot\\Images\\carousel12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nBt9quXYI+2pv058klVSb5MyZ1h8m/wPrpVDmWacwac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 19:51:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ksa7mv4br7"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/carousel12.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nBt9quXYI+2pv058klVSb5MyZ1h8m/wPrpVDmWacwac="
+        }
+      ]
+    },
+    {
+      "Route": "Images/carousel13.jpg",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\wwwroot\\Images\\carousel13.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EMG7+F6ZRQlQiWtVK0Z30bq3njFt1wyZBjmOGvDUK+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 19:51:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EMG7+F6ZRQlQiWtVK0Z30bq3njFt1wyZBjmOGvDUK+E="
+        }
+      ]
+    },
+    {
+      "Route": "Images/carousel13.kve3jk55rw.jpg",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\wwwroot\\Images\\carousel13.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EMG7+F6ZRQlQiWtVK0Z30bq3njFt1wyZBjmOGvDUK+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 19:51:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kve3jk55rw"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/carousel13.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EMG7+F6ZRQlQiWtVK0Z30bq3njFt1wyZBjmOGvDUK+E="
         }
       ]
     },

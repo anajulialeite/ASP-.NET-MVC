@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\LanchesMac.fog3i7w52z.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\wwwroot\\Images\\carousel11.jpg",
+      "PackagePath": "staticwebassets\\Images\\carousel11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\wwwroot\\Images\\carousel12.jpg",
+      "PackagePath": "staticwebassets\\Images\\carousel12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\wwwroot\\Images\\carousel13.jpg",
+      "PackagePath": "staticwebassets\\Images\\carousel13.jpg"
+    },
+    {
       "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

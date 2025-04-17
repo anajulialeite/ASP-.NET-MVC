@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35825.156 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanchesMac", "LanchesMac.csproj", "{0668BAF8-8359-4F23-B739-C8791D42A0B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanchesMac", "LanchesMac\LanchesMac.csproj", "{0C91F7F1-E3D6-43CA-9117-775534B014DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0668BAF8-8359-4F23-B739-C8791D42A0B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0668BAF8-8359-4F23-B739-C8791D42A0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0668BAF8-8359-4F23-B739-C8791D42A0B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0668BAF8-8359-4F23-B739-C8791D42A0B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C91F7F1-E3D6-43CA-9117-775534B014DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C91F7F1-E3D6-43CA-9117-775534B014DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C91F7F1-E3D6-43CA-9117-775534B014DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C91F7F1-E3D6-43CA-9117-775534B014DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CEA68FC8-1CE2-4C58-970E-3D4E896022BD}
+		SolutionGuid = {E186D21A-2CEE-4162-AFE9-5C5A24470D27}
 	EndGlobalSection
 EndGlobal

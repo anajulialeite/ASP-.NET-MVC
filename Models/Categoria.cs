@@ -12,15 +12,15 @@ namespace LanchesMac.Models
         [Required(ErrorMessage = "Informe o nome da categoria.")]
         [Display(Name = "nome")]
 
-        public string CategoriaNome { get; set; }
+        public required string CategoriaNome { get; set; }
 
         [StringLength(200, ErrorMessage = "O tamanho máximo é 200 caracteres.")]
         [Required(ErrorMessage = "Informe a descrição da categoria.")]
         [Display(Name = "nome")]
 
-        public string Descricao { get; set; }
+        public required string Descricao { get; set; }
 
         //definindo uma gategoria de um para muitos
-        public List<Lanche> Lanches { get; set; }
+        public required List<Lanche> Lanches { get; set; }
     }
 }

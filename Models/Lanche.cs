@@ -51,5 +51,6 @@ namespace LanchesMac.Models
         //definindo o relacionamento entre lanche e categoria
         public int CategoriaId { get; set; }
         public Categoria? Categoria { get; set; }
+        public bool IsLanchePreferido { get; internal set; }
     }
 }

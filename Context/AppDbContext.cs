@@ -1,6 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using LanchesMac.Models;
+using Microsoft.EntityFrameworkCore;
 
-namespace LanchesMac.Models.Context
+namespace LanchesMac.Context
 {
     public class AppDbContext : DbContext
     {

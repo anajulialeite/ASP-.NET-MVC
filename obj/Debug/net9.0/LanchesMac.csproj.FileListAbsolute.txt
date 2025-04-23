@@ -455,7 +455,6 @@ C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\staticwebassets\
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.LanchesMac.props
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.LanchesMac.props
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\LanchesMac.csproj.Up2Date
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\LanchesMac.dll
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\refint\LanchesMac.dll

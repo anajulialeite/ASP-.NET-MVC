@@ -19,7 +19,7 @@ namespace LanchesMac.Repositories
                                    Where(l => l.IsLanchePreferido)
                                   .Include(c => c.Categoria);
 
-        public Lanche GetLancheById(int lancheId)
+        public Lanche? GetLancheById(int lancheId)
         {
             return _context.Lanches.FirstOrDefault(l => l.LancheId == lancheId);
         }

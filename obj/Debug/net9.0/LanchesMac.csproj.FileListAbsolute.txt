@@ -461,3 +461,4 @@ C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\refint\LanchesMa
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\LanchesMac.pdb
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\LanchesMac.genruntimeconfig.cache
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\ref\LanchesMac.dll
+C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

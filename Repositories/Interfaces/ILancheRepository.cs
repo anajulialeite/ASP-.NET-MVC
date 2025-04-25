@@ -1,4 +1,5 @@
 ﻿using LanchesMac.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace LanchesMac.Repositories.Interfaces
 {
@@ -8,6 +9,6 @@ namespace LanchesMac.Repositories.Interfaces
 
         IEnumerable<Lanche> LanchesPreferidos { get; }
 
-        Lanche GetLancheById(int lancheId);
+       public Lanche? GetLancheById(int lancheId);
     }
 }

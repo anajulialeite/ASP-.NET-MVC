@@ -36,6 +36,11 @@ Acesso no navegador:
 <br>
 https://localhoust:7064
 
+# Pré-requisitos
+
+<li>.NET SDK Instalados</li>
+<li>Um editor como Visual Studio 2022 ou Visual Studio Code</li>
+
 # license
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)

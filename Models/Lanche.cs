@@ -38,10 +38,10 @@ namespace LanchesMac.Models
 
         [Display(Name = "Caminho imagem miniatura")]
         [StringLength(200, ErrorMessage = "O {0} deve ter no mínimo {1} caracteres.")]
-        public string? ImagemThumbnaiURL { get; set; }
+        public string? ImagemThumbnailURL { get; set; }
 
         [Display(Name = "Preferido?")]
-        public bool IsLanchaPreferido { get; set; }
+        public bool IsLanchePreferido { get; set; }
 
         [Display(Name = "Estoque")]
         public bool EmEstoque { get; set; }
@@ -51,6 +51,5 @@ namespace LanchesMac.Models
         //definindo o relacionamento entre lanche e categoria
         public int CategoriaId { get; set; }
         public Categoria? Categoria { get; set; }
-        public bool IsLanchePreferido { get; internal set; }
     }
 }

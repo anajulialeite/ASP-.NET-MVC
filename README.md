@@ -13,21 +13,27 @@ Este curso foi feito para colocar em prática os conhecimentos em <strong>ASP .N
 ## Instrução para Executar
 
 Clone este repositório:
+<br>
 git clone https://github.com/anajulialeite/ASP-.NET-MVC.git
 
 Navegue até a página do projeto:
+<br>
 cd ASP-.NET-MVC
 
 Restaure as dependências:
+<br>
 dotnet restore
 
 Compile o projeto:
+<br>
 dotnet build
 
 Execute a aplicação:
+<br>
 dotnet run
 
 Acesso no navegador:
+<br>
 https://localhoust:7064
 
 # license

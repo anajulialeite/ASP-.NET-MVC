@@ -14,9 +14,7 @@ public class HomeController : Controller
     }
 
     public IActionResult Index()
-    {
-        TempData["Nome"] = "Ana Júlia";
-
+    { 
         return View();
     }
 

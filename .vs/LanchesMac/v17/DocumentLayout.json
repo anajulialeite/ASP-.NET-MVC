@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\models\\carrinhocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|solutionrelative:models\\carrinhocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\migrations\\20250430210225_carrinhocompraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|solutionrelative:migrations\\20250430210225_carrinhocompraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +29,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\migrations\\20250419061146_inicialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|solutionrelative:migrations\\20250419061146_inicialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\models\\carrinhocompraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|solutionrelative:models\\carrinhocompraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\views\\lanche\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|solutionrelative:views\\lanche\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\views\\shared\\_lanchesresumo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|solutionrelative:views\\shared\\_lanchesresumo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\viewmodels\\lanchelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|solutionrelative:viewmodels\\lanchelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\controllers\\lanchecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,14 +87,6 @@
       "RelativeMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|solutionrelative:repositories\\interfaces\\_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\views\\lanche\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|solutionrelative:views\\lanche\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{41D97FC0-D967-4957-944F-96E452FA93E5}|LanchesMac.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -82,11 +106,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarrinhoCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Models\\CarrinhoCompra.cs",
+              "RelativeDocumentMoniker": "Models\\CarrinhoCompra.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Models\\CarrinhoCompra.cs",
+              "RelativeToolTip": "Models\\CarrinhoCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:49:20.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:28:15.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250430210225_CarrinhoCompraItem.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Migrations\\20250430210225_CarrinhoCompraItem.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250430210225_CarrinhoCompraItem.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Migrations\\20250430210225_CarrinhoCompraItem.cs",
+              "RelativeToolTip": "Migrations\\20250430210225_CarrinhoCompraItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:02:26.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarrinhoCompraItem.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Models\\CarrinhoCompraItem.cs",
+              "RelativeDocumentMoniker": "Models\\CarrinhoCompraItem.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Models\\CarrinhoCompraItem.cs",
+              "RelativeToolTip": "Models\\CarrinhoCompraItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:44:57.197Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -97,34 +173,62 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
+              "Title": "_LanchesResumo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Views\\Shared\\_LanchesResumo.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LanchesResumo.cshtml",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Views\\Shared\\_LanchesResumo.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LanchesResumo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T20:03:15.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LancheListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\ViewModels\\LancheListViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LancheListViewModel.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\ViewModels\\LancheListViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LancheListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:45:13.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Context\\AppDbContext.cs",
               "RelativeToolTip": "Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T04:08:09.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T04:07:41.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "20250421195516_PopularLanches.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Migrations\\20250421195516_PopularLanches.cs",
               "RelativeDocumentMoniker": "Migrations\\20250421195516_PopularLanches.cs",
@@ -137,33 +241,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "20250421164439_PopularCategorias.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Migrations\\20250421164439_PopularCategorias.cs",
               "RelativeDocumentMoniker": "Migrations\\20250421164439_PopularCategorias.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Migrations\\20250421164439_PopularCategorias.cs",
               "RelativeToolTip": "Migrations\\20250421164439_PopularCategorias.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T04:07:18.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "20250419061146_InicialMigration.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Migrations\\20250419061146_InicialMigration.cs",
               "RelativeDocumentMoniker": "Migrations\\20250419061146_InicialMigration.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Migrations\\20250419061146_InicialMigration.cs",
               "RelativeToolTip": "Migrations\\20250419061146_InicialMigration.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T04:07:09.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -171,12 +275,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T04:06:26.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T04:06:26.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "LancheRepository.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Repositories\\LancheRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\LancheRepository.cs",
@@ -184,12 +287,11 @@
               "RelativeToolTip": "Repositories\\LancheRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T04:06:18.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T04:06:18.603Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "ICategoriaRepository.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Repositories\\Interfaces\\ICategoriaRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Interfaces\\ICategoriaRepository.cs",
@@ -197,12 +299,11 @@
               "RelativeToolTip": "Repositories\\Interfaces\\ICategoriaRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T04:06:15.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T04:06:15.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "CategoriaRepository.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Repositories\\Interfaces\\CategoriaRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Interfaces\\CategoriaRepository.cs",
@@ -210,12 +311,11 @@
               "RelativeToolTip": "Repositories\\Interfaces\\CategoriaRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T04:06:12.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T04:06:12.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "_context.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Repositories\\Interfaces\\_context.cs",
               "RelativeDocumentMoniker": "Repositories\\Interfaces\\_context.cs",
@@ -223,12 +323,11 @@
               "RelativeToolTip": "Repositories\\Interfaces\\_context.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T04:06:09.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T04:06:09.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "ILancheRepository.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Repositories\\Interfaces\\ILancheRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Interfaces\\ILancheRepository.cs",
@@ -236,24 +335,23 @@
               "RelativeToolTip": "Repositories\\Interfaces\\ILancheRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T04:06:03.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T04:06:03.858Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-28T02:41:53.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "_Carousel.cshtml",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Views\\Shared\\_Carousel.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Carousel.cshtml",
@@ -265,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -277,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -289,33 +387,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "LancheController.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Controllers\\LancheController.cs",
               "RelativeDocumentMoniker": "Controllers\\LancheController.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Controllers\\LancheController.cs",
               "RelativeToolTip": "Controllers\\LancheController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T23:48:23.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T23:48:23.191Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "List.cshtml",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Views\\Lanche\\List.cshtml",
               "RelativeDocumentMoniker": "Views\\Lanche\\List.cshtml",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Views\\Lanche\\List.cshtml",
               "RelativeToolTip": "Views\\Lanche\\List.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-27T21:32:56.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -323,8 +420,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:54:15.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T17:54:15.196Z"
             }
           ]
         }

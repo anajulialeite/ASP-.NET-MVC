@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "LanchesMac.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

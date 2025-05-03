@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\LanchesMac.fog3i7w52z.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\Envelope-icon24.png",
+      "PackagePath": "staticwebassets\\Images\\Envelope-icon24.png"
+    },
+    {
+      "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\Full-Cart-icon.png",
+      "PackagePath": "staticwebassets\\Images\\Full-Cart-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\Home-iconred.png",
+      "PackagePath": "staticwebassets\\Images\\Home-iconred.png"
+    },
+    {
       "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\carousel11.jpg",
       "PackagePath": "staticwebassets\\Images\\carousel11.jpg"
     },
@@ -15,6 +27,26 @@
     {
       "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\carousel13.jpg",
       "PackagePath": "staticwebassets\\Images\\carousel13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\cart-5-16.ico",
+      "PackagePath": "staticwebassets\\Images\\cart-5-16.ico"
+    },
+    {
+      "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\delete.png",
+      "PackagePath": "staticwebassets\\Images\\delete.png"
+    },
+    {
+      "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\faleconosco1.jpg",
+      "PackagePath": "staticwebassets\\Images\\faleconosco1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\phone-app-icon.png",
+      "PackagePath": "staticwebassets\\Images\\phone-app-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\remove.ico",
+      "PackagePath": "staticwebassets\\Images\\remove.ico"
     },
     {
       "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\css\\site.css",

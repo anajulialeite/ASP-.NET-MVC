@@ -1,8 +1,9 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace LanchesMac.Models
 {
-    [table("Categorias")]
+    [Table("Categorias")]
     public class Categoria
     {
         [Key]

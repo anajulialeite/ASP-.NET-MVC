@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Z0tYR4EOxZt1vISup11Z9MNTSvX0hEz1rPXxlcFVWgE=",
+  "Hash": "9BZ4dkUQyGqImSOk5AohwVyjHQtSNwe7FZ1PNJ0Qptc=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -78,6 +78,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\obj\\Debug\\net9.0\\compressed\\23pdo0cbv6-ul9it32xfw.gz",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "Images/cart-5-16#[.{fingerprint=ul9it32xfw}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\cart-5-16.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "i8aubly34e",
+      "Integrity": "rjFKy3ILxM63Si/mdJT4QqsTroZNHZdm50zYKcchQOk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\cart-5-16.ico"
     },
     {
       "Identity": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\obj\\Debug\\net9.0\\compressed\\2bnlswnjt1-cosvhxvwiu.gz",
@@ -1214,6 +1235,27 @@
       "OriginalItemSpec": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+      "Identity": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\obj\\Debug\\net9.0\\compressed\\twjqppda13-w5c5r3l84e.gz",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "Images/remove#[.{fingerprint=w5c5r3l84e}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\remove.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0trtima29n",
+      "Integrity": "BLx0I34T7HJrFJcVp1s1Ii2pBjIDAhkjFm9OGniqgVo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\remove.ico"
+    },
+    {
       "Identity": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\obj\\Debug\\net9.0\\compressed\\u7s89dqnf5-keugtjm085.gz",
       "SourceId": "LanchesMac",
       "SourceType": "Discovered",
@@ -1506,6 +1548,174 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\carousel13.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\cart-5-16.ico",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "Images/cart-5-16#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ul9it32xfw",
+      "Integrity": "3nV4M0E/W0LiiybnjIXL/FJT4ImvBz+OxI+/IWr1kbU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\cart-5-16.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\delete.png",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "Images/delete#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z5jlj0xete",
+      "Integrity": "uSgsAlztivuuATADQFybLfow7/et1tbdTGh7MaKWrMs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\delete.png"
+    },
+    {
+      "Identity": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\Envelope-icon24.png",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "Images/Envelope-icon24#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6bkl1pfaem",
+      "Integrity": "Em/5hv3s7m9jCPnqa2IB+nm84Y3Jgl4vIC6UhfUgg7g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Envelope-icon24.png"
+    },
+    {
+      "Identity": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\faleconosco1.jpg",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "Images/faleconosco1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tdb2c57fc5",
+      "Integrity": "IZZZ95AMizsjZ3Vyp1g64DRMv1LFQbj9KXszm2Rmsnk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\faleconosco1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\Full-Cart-icon.png",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "Images/Full-Cart-icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cb7f8ibgkf",
+      "Integrity": "yBIBAIOfj5BT+G/WWyQKywyCZ8z6+6Umux2I36mQGYM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Full-Cart-icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\Home-iconred.png",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "Images/Home-iconred#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "336hvtohoi",
+      "Integrity": "DwxXvaAixjoD/6BxUBBAftvaK8KkZiyWK6h4zx1tdEU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Home-iconred.png"
+    },
+    {
+      "Identity": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\phone-app-icon.png",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "Images/phone-app-icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2uetzrt0c6",
+      "Integrity": "Wg8OKFWFSnF35f8uA9xjAMomfsqj5YO0IGOHzanGABE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\phone-app-icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\remove.ico",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "Images/remove#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w5c5r3l84e",
+      "Integrity": "LPwN8YEaPqO5FGY90aQTxv9wCkuXCJlAXUjMe3d4Fv4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\remove.ico"
     },
     {
       "Identity": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\js\\site.js",
@@ -3629,6 +3839,1094 @@
         {
           "Name": "integrity",
           "Value": "sha256-EMG7+F6ZRQlQiWtVK0Z30bq3njFt1wyZBjmOGvDUK+E="
+        }
+      ]
+    },
+    {
+      "Route": "Images/cart-5-16.ico",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\obj\\Debug\\net9.0\\compressed\\23pdo0cbv6-ul9it32xfw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003039513678"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "328"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rjFKy3ILxM63Si/mdJT4QqsTroZNHZdm50zYKcchQOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 18:59:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3nV4M0E/W0LiiybnjIXL/FJT4ImvBz+OxI+/IWr1kbU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3nV4M0E/W0LiiybnjIXL/FJT4ImvBz+OxI+/IWr1kbU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/cart-5-16.ico",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\cart-5-16.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3nV4M0E/W0LiiybnjIXL/FJT4ImvBz+OxI+/IWr1kbU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 18:59:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3nV4M0E/W0LiiybnjIXL/FJT4ImvBz+OxI+/IWr1kbU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/cart-5-16.ico.gz",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\obj\\Debug\\net9.0\\compressed\\23pdo0cbv6-ul9it32xfw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rjFKy3ILxM63Si/mdJT4QqsTroZNHZdm50zYKcchQOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 18:59:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rjFKy3ILxM63Si/mdJT4QqsTroZNHZdm50zYKcchQOk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/cart-5-16.ul9it32xfw.ico",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\obj\\Debug\\net9.0\\compressed\\23pdo0cbv6-ul9it32xfw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003039513678"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "328"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rjFKy3ILxM63Si/mdJT4QqsTroZNHZdm50zYKcchQOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 18:59:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3nV4M0E/W0LiiybnjIXL/FJT4ImvBz+OxI+/IWr1kbU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ul9it32xfw"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/cart-5-16.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3nV4M0E/W0LiiybnjIXL/FJT4ImvBz+OxI+/IWr1kbU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/cart-5-16.ul9it32xfw.ico",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\cart-5-16.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3nV4M0E/W0LiiybnjIXL/FJT4ImvBz+OxI+/IWr1kbU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 18:59:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ul9it32xfw"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/cart-5-16.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3nV4M0E/W0LiiybnjIXL/FJT4ImvBz+OxI+/IWr1kbU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/cart-5-16.ul9it32xfw.ico.gz",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\obj\\Debug\\net9.0\\compressed\\23pdo0cbv6-ul9it32xfw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rjFKy3ILxM63Si/mdJT4QqsTroZNHZdm50zYKcchQOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 18:59:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ul9it32xfw"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/cart-5-16.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rjFKy3ILxM63Si/mdJT4QqsTroZNHZdm50zYKcchQOk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/delete.png",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\delete.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uSgsAlztivuuATADQFybLfow7/et1tbdTGh7MaKWrMs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 01:05:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uSgsAlztivuuATADQFybLfow7/et1tbdTGh7MaKWrMs="
+        }
+      ]
+    },
+    {
+      "Route": "Images/delete.z5jlj0xete.png",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\delete.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uSgsAlztivuuATADQFybLfow7/et1tbdTGh7MaKWrMs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 01:05:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z5jlj0xete"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/delete.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uSgsAlztivuuATADQFybLfow7/et1tbdTGh7MaKWrMs="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Envelope-icon24.6bkl1pfaem.png",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\Envelope-icon24.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Em/5hv3s7m9jCPnqa2IB+nm84Y3Jgl4vIC6UhfUgg7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 04:34:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6bkl1pfaem"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Envelope-icon24.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Em/5hv3s7m9jCPnqa2IB+nm84Y3Jgl4vIC6UhfUgg7g="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Envelope-icon24.png",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\Envelope-icon24.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Em/5hv3s7m9jCPnqa2IB+nm84Y3Jgl4vIC6UhfUgg7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 04:34:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Em/5hv3s7m9jCPnqa2IB+nm84Y3Jgl4vIC6UhfUgg7g="
+        }
+      ]
+    },
+    {
+      "Route": "Images/faleconosco1.jpg",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\faleconosco1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9443"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IZZZ95AMizsjZ3Vyp1g64DRMv1LFQbj9KXszm2Rmsnk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 04:34:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IZZZ95AMizsjZ3Vyp1g64DRMv1LFQbj9KXszm2Rmsnk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/faleconosco1.tdb2c57fc5.jpg",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\faleconosco1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9443"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IZZZ95AMizsjZ3Vyp1g64DRMv1LFQbj9KXszm2Rmsnk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 04:34:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tdb2c57fc5"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/faleconosco1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IZZZ95AMizsjZ3Vyp1g64DRMv1LFQbj9KXszm2Rmsnk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Full-Cart-icon.cb7f8ibgkf.png",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\Full-Cart-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yBIBAIOfj5BT+G/WWyQKywyCZ8z6+6Umux2I36mQGYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 01:05:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cb7f8ibgkf"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Full-Cart-icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yBIBAIOfj5BT+G/WWyQKywyCZ8z6+6Umux2I36mQGYM="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Full-Cart-icon.png",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\Full-Cart-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yBIBAIOfj5BT+G/WWyQKywyCZ8z6+6Umux2I36mQGYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 01:05:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yBIBAIOfj5BT+G/WWyQKywyCZ8z6+6Umux2I36mQGYM="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Home-iconred.336hvtohoi.png",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\Home-iconred.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DwxXvaAixjoD/6BxUBBAftvaK8KkZiyWK6h4zx1tdEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 04:34:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "336hvtohoi"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Home-iconred.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DwxXvaAixjoD/6BxUBBAftvaK8KkZiyWK6h4zx1tdEU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Home-iconred.png",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\Home-iconred.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DwxXvaAixjoD/6BxUBBAftvaK8KkZiyWK6h4zx1tdEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 04:34:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DwxXvaAixjoD/6BxUBBAftvaK8KkZiyWK6h4zx1tdEU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/phone-app-icon.2uetzrt0c6.png",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\phone-app-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wg8OKFWFSnF35f8uA9xjAMomfsqj5YO0IGOHzanGABE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 04:35:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2uetzrt0c6"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/phone-app-icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wg8OKFWFSnF35f8uA9xjAMomfsqj5YO0IGOHzanGABE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/phone-app-icon.png",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\phone-app-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wg8OKFWFSnF35f8uA9xjAMomfsqj5YO0IGOHzanGABE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 04:35:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wg8OKFWFSnF35f8uA9xjAMomfsqj5YO0IGOHzanGABE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/remove.ico",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\obj\\Debug\\net9.0\\compressed\\twjqppda13-w5c5r3l84e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000092131933"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10853"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BLx0I34T7HJrFJcVp1s1Ii2pBjIDAhkjFm9OGniqgVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 01:05:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LPwN8YEaPqO5FGY90aQTxv9wCkuXCJlAXUjMe3d4Fv4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LPwN8YEaPqO5FGY90aQTxv9wCkuXCJlAXUjMe3d4Fv4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/remove.ico",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\remove.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "370070"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LPwN8YEaPqO5FGY90aQTxv9wCkuXCJlAXUjMe3d4Fv4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 01:05:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LPwN8YEaPqO5FGY90aQTxv9wCkuXCJlAXUjMe3d4Fv4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/remove.ico.gz",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\obj\\Debug\\net9.0\\compressed\\twjqppda13-w5c5r3l84e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10853"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BLx0I34T7HJrFJcVp1s1Ii2pBjIDAhkjFm9OGniqgVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 01:05:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BLx0I34T7HJrFJcVp1s1Ii2pBjIDAhkjFm9OGniqgVo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/remove.w5c5r3l84e.ico",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\obj\\Debug\\net9.0\\compressed\\twjqppda13-w5c5r3l84e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000092131933"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10853"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BLx0I34T7HJrFJcVp1s1Ii2pBjIDAhkjFm9OGniqgVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 01:05:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LPwN8YEaPqO5FGY90aQTxv9wCkuXCJlAXUjMe3d4Fv4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w5c5r3l84e"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/remove.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LPwN8YEaPqO5FGY90aQTxv9wCkuXCJlAXUjMe3d4Fv4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/remove.w5c5r3l84e.ico",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\remove.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "370070"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LPwN8YEaPqO5FGY90aQTxv9wCkuXCJlAXUjMe3d4Fv4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 01:05:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w5c5r3l84e"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/remove.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LPwN8YEaPqO5FGY90aQTxv9wCkuXCJlAXUjMe3d4Fv4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/remove.w5c5r3l84e.ico.gz",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\obj\\Debug\\net9.0\\compressed\\twjqppda13-w5c5r3l84e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10853"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BLx0I34T7HJrFJcVp1s1Ii2pBjIDAhkjFm9OGniqgVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 01:05:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w5c5r3l84e"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/remove.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BLx0I34T7HJrFJcVp1s1Ii2pBjIDAhkjFm9OGniqgVo="
         }
       ]
     },

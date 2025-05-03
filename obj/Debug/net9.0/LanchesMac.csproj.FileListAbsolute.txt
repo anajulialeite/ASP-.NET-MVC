@@ -570,3 +570,5 @@ C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\bin\Debug\net9.0\ru\Microsoft.Cod
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\compressed\twjqppda13-w5c5r3l84e.gz
+C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\compressed\23pdo0cbv6-ul9it32xfw.gz

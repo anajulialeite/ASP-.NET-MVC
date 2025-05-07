@@ -4,7 +4,16 @@
     <h2>@Model.CategoriaAtual</h2>
 </div>
 
-<div class="container">
+<!-- Filtros -->
+<div class="btn-group" role="group" aria-label="Basic example">
+    <a href="https://localhost:7064/Lanche/List/natural" class="btn btn-danger">Todos os Lanches</a>
+    <a href="https://localhost:7064/Lanche/List/natural?categoria=Normal" class="btn btn-warning">Lanches Normais</a>
+    <a href="https://localhost:7064/Lanche/List/natural?categoria=Natural" class="btn btn-success">Lanches Naturais</a>
+    <a href="https://localhost:7064/Lanche/List/vegano?categoria=Vegano" class="btn btn-info">Lanches Veganos</a>
+</div>
+
+
+<div class="container mt-3">
     <div class="row">
         @foreach (var lanche in Model.Lanches)
         {

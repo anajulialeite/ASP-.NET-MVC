@@ -132,6 +132,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DwxXvaAixjoD/6BxUBBAftvaK8KkZiyWK6h4zx1tdEU="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2323"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022DwxXvaAixjoD/6BxUBBAftvaK8KkZiyWK6h4zx1tdEU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 03 May 2025 04:34:45 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LanchesMac/Images/lanchevegano1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\lanchevegano1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rnG\u002B6ybO/xSDOI8jMy/1vDZJqm3OPhBre10bPO4emFo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8302"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rnG\u002B6ybO/xSDOI8jMy/1vDZJqm3OPhBre10bPO4emFo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 02:50:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LanchesMac/Images/lanchevegano1.mjxioz94gu.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\lanchevegano1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mjxioz94gu"},{"Name":"integrity","Value":"sha256-rnG\u002B6ybO/xSDOI8jMy/1vDZJqm3OPhBre10bPO4emFo="},{"Name":"label","Value":"_content/LanchesMac/Images/lanchevegano1.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8302"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rnG\u002B6ybO/xSDOI8jMy/1vDZJqm3OPhBre10bPO4emFo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 02:50:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/LanchesMac/Images/phone-app-icon.2uetzrt0c6.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\phone-app-icon.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

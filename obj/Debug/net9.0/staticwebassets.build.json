@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9BZ4dkUQyGqImSOk5AohwVyjHQtSNwe7FZ1PNJ0Qptc=",
+  "Hash": "BeYdO/VLSFYPPr9RR/e4MfoVOrE7DxLjYCGHr3/mcmU=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -1674,6 +1674,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Home-iconred.png"
+    },
+    {
+      "Identity": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\lanchevegano1.jpg",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "Images/lanchevegano1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mjxioz94gu",
+      "Integrity": "rnG+6ybO/xSDOI8jMy/1vDZJqm3OPhBre10bPO4emFo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\lanchevegano1.jpg"
     },
     {
       "Identity": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\phone-app-icon.png",
@@ -4547,6 +4568,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-DwxXvaAixjoD/6BxUBBAftvaK8KkZiyWK6h4zx1tdEU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/lanchevegano1.jpg",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\lanchevegano1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rnG+6ybO/xSDOI8jMy/1vDZJqm3OPhBre10bPO4emFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 02:50:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rnG+6ybO/xSDOI8jMy/1vDZJqm3OPhBre10bPO4emFo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/lanchevegano1.mjxioz94gu.jpg",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\lanchevegano1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rnG+6ybO/xSDOI8jMy/1vDZJqm3OPhBre10bPO4emFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 02:50:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mjxioz94gu"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/lanchevegano1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rnG+6ybO/xSDOI8jMy/1vDZJqm3OPhBre10bPO4emFo="
         }
       ]
     },

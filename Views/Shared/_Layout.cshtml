@@ -11,14 +11,18 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark border-bottom box-shadow mb-3">
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">LanchesMac</a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse"
-                        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    LanchesMac
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-end">
-                    <ul class="navbar-nav d-flex align-items-center">
+                <div class="navbar-collapse collapse d-sm-inline-flex">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            @* @await Component.InvokeAsync("CategoriaMenu") *@
+                        </li>
                         <li class="nav-item">
                             <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
@@ -29,14 +33,14 @@
                             <a class="nav-link text-light" asp-area="" asp-controller="Lanche" asp-action="List">Lanches</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-light" asp-area="" asp-controller="CarrinhoCompra" asp-action="Index">Carrinho</a>
+                            @await Component.InvokeAsync("CarrinhoCompraResumo")
                         </li>
                     </ul>
                 </div>
+
             </div>
         </nav>
     </header>
-
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
@@ -45,10 +49,9 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2021 - LanchesMac
+            &copy; 2021 - LanchesMac - Ana Júlia de L. A. Leite
         </div>
     </footer>
-
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

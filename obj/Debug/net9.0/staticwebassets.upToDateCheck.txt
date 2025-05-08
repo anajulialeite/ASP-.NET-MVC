@@ -73,7 +73,6 @@ wwwroot\Images\Envelope-icon24.png
 wwwroot\Images\faleconosco1.jpg
 wwwroot\Images\Full-Cart-icon.png
 wwwroot\Images\Home-iconred.png
-wwwroot\Images\lanchevegano1.jpg
 wwwroot\Images\phone-app-icon.png
 wwwroot\Images\remove.ico
 wwwroot\js\site.js

@@ -373,7 +373,6 @@ C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\LanchesMac.sourc
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\scopedcss\bundle\LanchesMac.styles.css
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\scopedcss\projectbundle\LanchesMac.bundle.scp.css
-C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\compressed\odz8hiqwrv-b9sayid5wm.gz
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\compressed\j3dwayq8ec-61n19gt1b8.gz
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\compressed\t5j7soiple-xtxxf3hu2r.gz
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\compressed\l04tsdmnwc-t1cqhe9u97.gz
@@ -572,3 +571,4 @@ C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\bin\Debug\net9.0\zh-Hans\Microsof
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\compressed\twjqppda13-w5c5r3l84e.gz
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\compressed\23pdo0cbv6-ul9it32xfw.gz
+C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Debug\net9.0\compressed\odz8hiqwrv-9wys8q0ocx.gz

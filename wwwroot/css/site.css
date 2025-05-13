@@ -29,3 +29,31 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+.carousel-container {
+    position: relative;
+}
+
+.carousel-texto-sobreposto {
+    position: absolute;
+    top: 50%; 
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    z-index: 10;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px 30px;
+    border-radius: 15px;
+    margin-top: 200px;
+}
+
+.carousel-texto-sobreposto h1 {
+    font-size: 2.8rem;
+    font-weight: bold;
+}
+
+.carousel-texto-sobreposto p {
+    font-size: 1.3rem;
+    margin-top: 10px;
+}

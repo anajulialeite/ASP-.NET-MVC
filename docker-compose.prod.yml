@@ -1,0 +1,45 @@
+version: '3.8'
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        - DOTNET_CONFIG=Release
+    ports:
+      - "7064:7064"
+    depends_on:
+      - db
+    env_file:
+      - .env.prod
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=${DB_HOST};Database=${DB_NAME};User=${DB_USER};Password=${DB_PASSWORD};TrustServerCertificate=True;
+      - ASPNETCORE_ENVIRONMENT=Production
+    restart: always
+    volumes:
+      - web_data:/root/.aspnet/DataProtection-Keys
+
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    env_file:
+      - .env.prod
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=${DB_PASSWORD}
+      - MSSQL_PID=Express
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlserver_data:/var/opt/mssql
+    restart: always
+    healthcheck:
+      test: /opt/mssql-tools/bin/sqlcmd -S localhost -U ${DB_USER} -P ${DB_PASSWORD} -Q "SELECT 1" || exit 1
+      interval: 10s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+
+volumes:
+  sqlserver_data:
+  web_data:

@@ -1,0 +1,44 @@
+# ASP.NET Core
+bin/
+obj/
+/[Bb]in/
+/[Oo]bj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# NuGet
+*.nupkg
+**/packages/*
+*.nuget.props
+*.nuget.targets
+
+# Docker & Environment
+.env
+.env.prod
+*.env.local
+.dockerignore
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Logs
+*.log
+logs/
+
+# Misc
+.DS_Store
+Thumbs.db
+*.swp

@@ -49,6 +49,10 @@
       "PackagePath": "staticwebassets\\Images\\remove.ico"
     },
     {
+      "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\xtudopng.png",
+      "PackagePath": "staticwebassets\\Images\\xtudopng.png"
+    },
+    {
       "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

@@ -75,6 +75,7 @@ wwwroot\Images\Full-Cart-icon.png
 wwwroot\Images\Home-iconred.png
 wwwroot\Images\phone-app-icon.png
 wwwroot\Images\remove.ico
+wwwroot\Images\xtudopng.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

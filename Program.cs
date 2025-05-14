@@ -16,6 +16,7 @@ builder.Services.AddControllersWithViews();
 // Registrar repositórios
 builder.Services.AddTransient<ILancheRepository, LancheRepository>();
 builder.Services.AddTransient<ICategoriaRepository, CategoriaRepository>();
+builder.Services.AddTransient<IPedidoRepository, PedidoRepository>();
 
 // Registrar CarrinhoCompra
 builder.Services.AddScoped(sp => CarrinhoCompra.GetCarrinho(sp));

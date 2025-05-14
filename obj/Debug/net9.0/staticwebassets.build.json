@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hxrrgNOH/nwD4mcXLhBHVhlEaZDo+m/NJ4qMpV0Nxzo=",
+  "Hash": "7h63WwRWiZGbubLdYHtbrShHEFq4zEJFpyrk3bvOCKY=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -1716,6 +1716,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\remove.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\xtudopng.png",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "Images/xtudopng#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w30pl7orio",
+      "Integrity": "NELd/BZ50/qCm4lWtrYcBMmMxPLRWcMD5taSmFOVLOs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\xtudopng.png"
     },
     {
       "Identity": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\js\\site.js",
@@ -4927,6 +4948,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-BLx0I34T7HJrFJcVp1s1Ii2pBjIDAhkjFm9OGniqgVo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/xtudopng.png",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\xtudopng.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NELd/BZ50/qCm4lWtrYcBMmMxPLRWcMD5taSmFOVLOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 16:53:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NELd/BZ50/qCm4lWtrYcBMmMxPLRWcMD5taSmFOVLOs="
+        }
+      ]
+    },
+    {
+      "Route": "Images/xtudopng.w30pl7orio.png",
+      "AssetFile": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\xtudopng.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NELd/BZ50/qCm4lWtrYcBMmMxPLRWcMD5taSmFOVLOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 16:53:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w30pl7orio"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/xtudopng.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NELd/BZ50/qCm4lWtrYcBMmMxPLRWcMD5taSmFOVLOs="
         }
       ]
     },

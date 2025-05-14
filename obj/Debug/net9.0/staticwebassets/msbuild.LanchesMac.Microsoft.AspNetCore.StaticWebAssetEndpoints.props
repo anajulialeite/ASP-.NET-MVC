@@ -156,6 +156,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w5c5r3l84e"},{"Name":"integrity","Value":"sha256-LPwN8YEaPqO5FGY90aQTxv9wCkuXCJlAXUjMe3d4Fv4="},{"Name":"label","Value":"_content/LanchesMac/Images/remove.ico"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"370070"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022LPwN8YEaPqO5FGY90aQTxv9wCkuXCJlAXUjMe3d4Fv4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 01:05:28 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LanchesMac/Images/xtudopng.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\xtudopng.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NELd/BZ50/qCm4lWtrYcBMmMxPLRWcMD5taSmFOVLOs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"97020"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022NELd/BZ50/qCm4lWtrYcBMmMxPLRWcMD5taSmFOVLOs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 13 May 2025 16:53:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LanchesMac/Images/xtudopng.w30pl7orio.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\xtudopng.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w30pl7orio"},{"Name":"integrity","Value":"sha256-NELd/BZ50/qCm4lWtrYcBMmMxPLRWcMD5taSmFOVLOs="},{"Name":"label","Value":"_content/LanchesMac/Images/xtudopng.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"97020"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022NELd/BZ50/qCm4lWtrYcBMmMxPLRWcMD5taSmFOVLOs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 13 May 2025 16:53:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/LanchesMac/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

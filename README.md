@@ -36,7 +36,7 @@ dotnet run
 
 Acesso no navegador:
 <br>
-https://localhoust:7064
+https://localhost:7064
 
 # Pré-requisitos
 

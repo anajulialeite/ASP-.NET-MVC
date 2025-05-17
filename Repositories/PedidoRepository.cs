@@ -26,7 +26,7 @@ namespace LanchesMac.Repositories
 
             foreach (var carrinhoItem in carrinhoCompraItens)
             {
-                var pedidoDetail = new PedidoDetalhe()
+                var pedidoDetail = new PedidoDetalhes()
                 {
                     Quantidade = carrinhoItem.Quantidade,
                     LancheId = carrinhoItem.Lanche.LancheId,

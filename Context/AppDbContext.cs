@@ -17,6 +17,6 @@ namespace LanchesMac.Context
 
         public DbSet<Pedido> Pedidos { get; set; }
 
-        public DbSet<PedidoDetalhe> PedidoDetalhes { get; set; }
+        public DbSet<PedidoDetalhes> PedidoDetalhes { get; set; }
     }
 }

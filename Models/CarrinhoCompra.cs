@@ -15,6 +15,7 @@ namespace LanchesMac.Models
 
         public string CarrinhoCompraId { get; set; } // Pode ser inicializado no construtor
         public List<CarrinhoCompraItem> CarrinhoCompraItems { get; set; } = new List<CarrinhoCompraItem>();
+        public object CarrinhoCompraItens { get; internal set; }
 
         public static CarrinhoCompra GetCarrinho(IServiceProvider services)
         {
@@ -99,11 +100,15 @@ namespace LanchesMac.Models
 
         public List<CarrinhoCompraItem> GetCarrinhoCompraItens()
         {
-            return CarrinhoCompraItems ??
-                   (CarrinhoCompraItems =
-                       _context.CarrinhoCompraItens.Where(c => c.CarrinhoCompraId == CarrinhoCompraId)
-                           .Include(s => s.Lanche)
-                           .ToList());
+            if (CarrinhoCompraItems != null && CarrinhoCompraItems.Any())
+                return CarrinhoCompraItems;
+
+            CarrinhoCompraItems = _context.CarrinhoCompraItens
+                .Where(item => item.CarrinhoCompraId == CarrinhoCompraId)
+                .Include(item => item.Lanche)
+                .ToList();
+
+            return CarrinhoCompraItems;
         }
 
         public void LimparCarrinho()

@@ -3,6 +3,7 @@ using LanchesMac.Models;
 using LanchesMac.Repositories;
 using LanchesMac.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authentication.Cookies;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -30,6 +31,19 @@ builder.Services.AddSession(options =>
     options.Cookie.Name = ".LanchesMac.Session";
     options.IdleTimeout = TimeSpan.FromMinutes(30);
     options.Cookie.IsEssential = true;
+});
+
+// *** Adicionar autenticação por cookie aqui ***
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultScheme = "Cookies";
+    options.DefaultChallengeScheme = "Cookies";
+    options.DefaultAuthenticateScheme = "Cookies";
+})
+.AddCookie("Cookies", options =>
+{
+    options.LoginPath = "/Conta/Login";
+    options.AccessDeniedPath = "/Conta/AcessoNegado";
 });
 
 var app = builder.Build();

@@ -67,6 +67,6 @@ namespace LanchesMac.Models
             public DateTime? PedidoEntregueEm { get; set; }
 
             // Tornar a propriedade anulável
-            public List<PedidoDetalhe>? PedidoItens { get; set; }
+            public List<PedidoDetalhes>? PedidoItens { get; set; }
     }
 }

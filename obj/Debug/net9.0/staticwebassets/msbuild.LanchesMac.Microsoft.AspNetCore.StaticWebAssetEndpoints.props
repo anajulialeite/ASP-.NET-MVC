@@ -184,13 +184,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\LanchesMac.fog3i7w52z.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-L4VxxxqXqx4JdnqFxLpLxaS0MPRYgxQQDjxXnfrvC2Q="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1128"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022L4VxxxqXqx4JdnqFxLpLxaS0MPRYgxQQDjxXnfrvC2Q=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 01:56:09 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1128"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022L4VxxxqXqx4JdnqFxLpLxaS0MPRYgxQQDjxXnfrvC2Q=\u0022"},{"Name":"Last-Modified","Value":"Sat, 17 May 2025 20:24:04 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/LanchesMac/LanchesMac.fog3i7w52z.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\LanchesMac.fog3i7w52z.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fog3i7w52z"},{"Name":"integrity","Value":"sha256-L4VxxxqXqx4JdnqFxLpLxaS0MPRYgxQQDjxXnfrvC2Q="},{"Name":"label","Value":"_content/LanchesMac/LanchesMac.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1128"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022L4VxxxqXqx4JdnqFxLpLxaS0MPRYgxQQDjxXnfrvC2Q=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 01:56:09 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1128"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022L4VxxxqXqx4JdnqFxLpLxaS0MPRYgxQQDjxXnfrvC2Q=\u0022"},{"Name":"Last-Modified","Value":"Sat, 17 May 2025 20:24:04 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/LanchesMac/lib/bootstrap/dist/css/bootstrap-grid.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>

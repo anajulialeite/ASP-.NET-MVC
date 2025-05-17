@@ -260,7 +260,6 @@ C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Release\net9.0\scopedcss\View
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Release\net9.0\scopedcss\bundle\LanchesMac.styles.css
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Release\net9.0\scopedcss\projectbundle\LanchesMac.bundle.scp.css
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Release\net9.0\compressed\odz8hiqwrv-9wys8q0ocx.gz
-C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Release\net9.0\compressed\j3dwayq8ec-61n19gt1b8.gz
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Release\net9.0\compressed\23pdo0cbv6-ul9it32xfw.gz
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Release\net9.0\compressed\twjqppda13-w5c5r3l84e.gz
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Release\net9.0\compressed\t5j7soiple-xtxxf3hu2r.gz
@@ -341,3 +340,4 @@ C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Release\net9.0\refint\Lanches
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Release\net9.0\LanchesMac.pdb
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Release\net9.0\LanchesMac.genruntimeconfig.cache
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Release\net9.0\ref\LanchesMac.dll
+C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\obj\Release\net9.0\compressed\rxr9017f52-kkz6uha1ht.gz

@@ -135,7 +135,6 @@ namespace LanchesMac.Migrations
                         .HasColumnType("nvarchar(10)");
 
                     b.Property<string>("Cidade")
-                        .IsRequired()
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
@@ -150,12 +149,10 @@ namespace LanchesMac.Migrations
                         .HasColumnType("nvarchar(100)");
 
                     b.Property<string>("Endereco2")
-                        .IsRequired()
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
                     b.Property<string>("Estado")
-                        .IsRequired()
                         .HasMaxLength(10)
                         .HasColumnType("nvarchar(10)");
 
@@ -191,13 +188,13 @@ namespace LanchesMac.Migrations
                     b.ToTable("Pedidos");
                 });
 
-            modelBuilder.Entity("LanchesMac.Models.PedidoDetalhe", b =>
+            modelBuilder.Entity("LanchesMac.Models.PedidoDetalhes", b =>
                 {
-                    b.Property<int>("PedidoDetalheId")
+                    b.Property<int>("PedidoDetalhesId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("PedidoDetalheId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("PedidoDetalhesId"));
 
                     b.Property<int>("LancheId")
                         .HasColumnType("int");
@@ -211,7 +208,7 @@ namespace LanchesMac.Migrations
                     b.Property<int>("Quantidade")
                         .HasColumnType("int");
 
-                    b.HasKey("PedidoDetalheId");
+                    b.HasKey("PedidoDetalhesId");
 
                     b.HasIndex("LancheId");
 
@@ -242,7 +239,7 @@ namespace LanchesMac.Migrations
                     b.Navigation("Categoria");
                 });
 
-            modelBuilder.Entity("LanchesMac.Models.PedidoDetalhe", b =>
+            modelBuilder.Entity("LanchesMac.Models.PedidoDetalhes", b =>
                 {
                     b.HasOne("LanchesMac.Models.Lanche", "Lanche")
                         .WithMany()

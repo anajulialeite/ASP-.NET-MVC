@@ -33,7 +33,6 @@ C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\wwwroot\lib\bootstrap\dist\js\boo
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\wwwroot\lib\jquery\dist\jquery.js
-C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\wwwroot\favicon.ico
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
@@ -47,6 +46,7 @@ C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\wwwroot\lib\bootstrap\dist\js\boo
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\wwwroot\Images\Hamburguer.ico
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
@@ -63,7 +63,6 @@ C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\wwwroot\lib\jquery\dist\jquery.sl
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\wwwroot\lib\jquery\dist\jquery.min.js
 C:\Users\Master\Documents\Estudos\ASP-.NET-MVC\wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\css\site.css
-wwwroot\favicon.ico
 wwwroot\Images\carousel11.jpg
 wwwroot\Images\carousel12.jpg
 wwwroot\Images\carousel13.jpg
@@ -72,9 +71,11 @@ wwwroot\Images\delete.png
 wwwroot\Images\Envelope-icon24.png
 wwwroot\Images\faleconosco1.jpg
 wwwroot\Images\Full-Cart-icon.png
+wwwroot\Images\Hamburguer.ico
 wwwroot\Images\Home-iconred.png
 wwwroot\Images\phone-app-icon.png
 wwwroot\Images\remove.ico
+wwwroot\Images\smile.webp
 wwwroot\Images\xtudopng.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

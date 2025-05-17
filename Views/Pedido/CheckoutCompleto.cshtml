@@ -1,17 +1,25 @@
 ﻿@model Pedido
 
-<div class="container">
+@if (ViewBag.CheckoutCompletoMensagem != null)
+{
+    <h1>
+        <img src="~/images/xtudopng.png" alt="Hamburguer" style="width:24px; height:24px;" />
+        Obrigado pelo seu pedido
+        @ViewBag.CheckoutCompletoMensagem
+        <img src="~/images/smile.webp" alt="Slime" style="width:24px; height:24px;" />
+    </h1>
+}
+
+<div class="container marginTop1">
 
     <div class="jumbotron">
         <h2>@ViewBag.CheckoutCompletoMensagem</h2>
     </div>
-
     <div class="card">
         <div class="card-body">
             <p>Cliente : <strong>@Model.Nome</strong>
             <p>Data do Pedido :  <strong>@Model.PedidoEnviado</strong>
             <p>Número do Pedido   : <strong>@Model.PedidoId</strong></p>
-
             <table class="table">
                 <tr>
                     <th></th>
@@ -29,7 +37,6 @@
                     </tr>
                         }
             </table>
-
             <h4>Valor Total do Pedido: <strong>@(((decimal)ViewBag.TotalPedido).ToString("C2"))</strong></h4>
         </div>
     </div>

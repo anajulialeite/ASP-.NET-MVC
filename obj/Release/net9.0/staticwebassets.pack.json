@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\Images\\Full-Cart-icon.png"
     },
     {
+      "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\Hamburguer.ico",
+      "PackagePath": "staticwebassets\\Images\\Hamburguer.ico"
+    },
+    {
       "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\Home-iconred.png",
       "PackagePath": "staticwebassets\\Images\\Home-iconred.png"
     },
@@ -49,16 +53,16 @@
       "PackagePath": "staticwebassets\\Images\\remove.ico"
     },
     {
+      "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\smile.webp",
+      "PackagePath": "staticwebassets\\Images\\smile.webp"
+    },
+    {
       "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\Images\\xtudopng.png",
       "PackagePath": "staticwebassets\\Images\\xtudopng.png"
     },
     {
       "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
-      "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
       "Id": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\wwwroot\\js\\site.js",

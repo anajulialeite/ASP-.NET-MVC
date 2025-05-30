@@ -38,6 +38,21 @@ Acesso no navegador:
 <br>
 https://localhost: XXXX
 
+# Tecnologias utilizadas
+
+<li>ASP.NET Core MVC</li>
+<li>C#</li>
+<li>Razor Pages</li>
+<li>Entity Framework Core (se estiver usando para acesso a dados)</li>
+<li>Bootstrap (para estilização básica)</li>
+
+# Estrutura do Projeto
+
+<li><strong>Models: </strong>Classes que representam as entidades, como Lanches</li>
+<li><strong>Views: </strong>Páginas Razor para exibir e interagir com os dados.</li>
+<li><strong>Controllers: </strong>Lógica para manipular requisições e ações.</li>
+<li><strong>wwwroot: </strong>Arquivos estáticos (CSS, JS, imagens)</li>
+
 # Pré-requisitos
 
 <li>.NET SDK Instalados</li>

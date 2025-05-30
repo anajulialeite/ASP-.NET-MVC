@@ -38,14 +38,6 @@ Acesso no navegador:
 <br>
 https://localhost: XXXX
 
-# Tecnologias utilizadas
-
-<li>ASP.NET Core MVC</li>
-<li>C#</li>
-<li>Razor Pages</li>
-<li>Entity Framework Core (se estiver usando para acesso a dados)</li>
-<li>Bootstrap (para estilização básica)</li>
-
 # Estrutura do Projeto
 
 <li><strong>Models: </strong>Classes que representam as entidades, como Lanches</li>

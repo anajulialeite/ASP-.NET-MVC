@@ -38,13 +38,6 @@ Acesso no navegador:
 <br>
 https://localhost: XXXX
 
-# Estrutura do Projeto
-
-<li><strong>Models: </strong>Classes que representam as entidades, como Lanches</li>
-<li><strong>Views: </strong>Páginas Razor para exibir e interagir com os dados.</li>
-<li><strong>Controllers: </strong>Lógica para manipular requisições e ações.</li>
-<li><strong>wwwroot: </strong>Arquivos estáticos (CSS, JS, imagens)</li>
-
 # Pré-requisitos
 
 <li>.NET SDK Instalados</li>

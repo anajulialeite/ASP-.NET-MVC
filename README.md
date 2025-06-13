@@ -10,7 +10,7 @@
           
 Este projeto foi desenvolvido com o objetivo de aplicar, na prática, os principais conceitos do desenvolvimento web utilizando ASP.NET MVC e Entity Framework Core, por meio da criação de um site dinâmico para vendas de lanches funcionais. Este repositório é parte prática de um curso voltado ao aprofundamento em ASP.NET MVC. A cada etapa, novos recursos são adicionados, com foco em boas práticas, organização em camadas e experiência do usuário.
 
-## Tecnologias e conceitos Utilizados
+## Tecnologias e Conceitos Utilizados
 
 - ASP.NET Core MVC
 - C#
@@ -80,16 +80,20 @@ https://localhost: XXXX
 
 ---
 
+#Demonstração
+
 <img src="Imagem/LanchesMac.png" alt="lanches" align="center" width="300">
 
-## Autora: Ana Júlia de Lima Aguiar leite
+## Autora
 
-<a href="https://www.linkedin.com/in/ana-j%C3%BAlia-de-lima-aguiar-leite-009a58209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+Ana Júlia de Lima Aguiar Leite
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anajulialimaleite/)
 
 https://www.linkedin.com/in/anajulialimaleite/
 
 ---
 
-## license
+## License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)

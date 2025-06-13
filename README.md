@@ -30,8 +30,6 @@ Este projeto foi desenvolvido com o objetivo de aplicar, na prática, os princip
 - Autenticação e segurança com ASP.NET Core Identity (login, registro e logout)
 - Paginação e filtros de dados
 - Consultas com LINQ para geração de relatórios
-- Criação de gráficos com Google Charts
-- Relatórios em PDF com FastReport Open Source
 
 ---
 

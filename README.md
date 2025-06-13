@@ -69,7 +69,6 @@ https://localhost: XXXX
 <li>Registro de novos usuários</li>
 <li>Integração com banco de dados SQL Server</li>
 
-
 ---
 
 <img src="Imagem/LanchesMac.png" alt="lanches" align="center" width="300">
@@ -79,6 +78,8 @@ https://localhost: XXXX
 <a href="https://www.linkedin.com/in/ana-j%C3%BAlia-de-lima-aguiar-leite-009a58209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
 https://www.linkedin.com/in/anajulialimaleite/
+
+---
 
 ## license
 

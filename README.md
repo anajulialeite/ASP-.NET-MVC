@@ -80,7 +80,7 @@ https://localhost: XXXX
 
 ---
 
-#Demonstração
+## Demonstração
 
 <img src="Imagem/LanchesMac.png" alt="lanches" align="center" width="300">
 
@@ -89,8 +89,6 @@ https://localhost: XXXX
 Ana Júlia de Lima Aguiar Leite
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anajulialimaleite/)
-
-https://www.linkedin.com/in/anajulialimaleite/
 
 ---
 

@@ -8,9 +8,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" align="left" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" align="center" width="50" height="50"/>      
           
-Este curso foi feito para colocar em prática os conhecimentos em **ASP .NET MVC** em um site para vendas de lanche funcional. Vou criar do zero um site web dinâmico e aprender diversos conceitos relacionados ao desenvolvimento web usando a tecnologia **ASP .NET MVC** e o **Entity Framework Core**. Vou aprender a implementar o padrão **MVC**, definir as entidades do modelo de domínio usando o **Entity Framework Core**, definir a validação e configuração das entidades usando o **Data Annotations**, realizar a migração para criar o banco de dados e as tabelas usando a abordagem **Code-First**, cadastrar as tabelas do banco de dados, usar o padrão repository e o padrão **ViewModel**, trabalhar com **Session** criando um carrinho de compras, definir rotas na aplicação, usar **Views Components** no projeto, implementar a segurança usando **ASP .NET Core Identity** criando o Login, o registro e o Logout do usuário, criar e usar o **Partial Views**, realizar a paginação e filtro de dados, criar relatórios criando consultas **LINQ**, criar gráficos usando o **GoogleChart**, criar relatórios no formato PDF usando o **FastReport OpenSource**.
+Este projeto foi desenvolvido com o objetivo de aplicar, na prática, os principais conceitos do desenvolvimento web utilizando ASP.NET MVC e Entity Framework Core, por meio da criação de um site dinâmico para vendas de lanches funcionais. Este repositório é parte prática de um curso voltado ao aprofundamento em ASP.NET MVC. A cada etapa, novos recursos são adicionados, com foco em boas práticas, organização em camadas e experiência do usuário.
 
-## Tecnologias Utilizadas
+## Tecnologias e conceitos Utilizados
 
 - ASP.NET Core MVC
 - C#
@@ -21,6 +21,17 @@ Este curso foi feito para colocar em prática os conhecimentos em **ASP .NET MVC
 - Bootstrap
 - JavaScript
 - Visual Studio 2022
+- Validações com Data Annotations
+- Abordagem Code-First com migração para criação do banco de dados
+- Padrão Repository e ViewModel
+- Carrinho de compras com uso de Session
+- Roteamento personalizado
+- Componentes de Interface com View Components e Partial Views
+- Autenticação e segurança com ASP.NET Core Identity (login, registro e logout)
+- Paginação e filtros de dados
+- Consultas com LINQ para geração de relatórios
+- Criação de gráficos com Google Charts
+- Relatórios em PDF com FastReport Open Source
 
 ---
 
@@ -62,12 +73,12 @@ https://localhost: XXXX
 
 ## Funcionalidades Implementadas
 
-<li>Cadastro e login de usuários</li>
-<li>Visualização de tipos de lanches</li>
-<li>Página de contato funcional</li>
-<li>Busca de lanches por nome</li>
-<li>Registro de novos usuários</li>
-<li>Integração com banco de dados SQL Server</li>
+- Cadastro e login de usuários
+- Visualização de tipos de lanches
+- Página de contato funcional
+- Busca de lanches por nome
+- Registro de novos usuários
+- Integração com banco de dados SQL Server
 
 ---
 

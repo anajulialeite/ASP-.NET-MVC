@@ -84,6 +84,8 @@ https://localhost: XXXX
 
 <img src="Imagem/LanchesMac.png" alt="lanches" align="center" width="300">
 
+---
+
 ## Autora
 
 Ana Júlia de Lima Aguiar Leite

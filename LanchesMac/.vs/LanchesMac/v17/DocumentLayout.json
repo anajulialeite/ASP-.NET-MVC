@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\lanchesmac\\lanchesmac\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\lanchesmac\\lanchesmac\\models\\carrinhocompraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\models\\carrinhocompraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\lanchesmac\\lanchesmac\\models\\carrinhocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\models\\carrinhocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\lanchesmac\\lanchesmac\\components\\categoriamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\components\\categoriamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\lanchesmac\\lanchesmac\\components\\carrinhocompraresumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\components\\carrinhocompraresumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\lanchesmac\\lanchesmac\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\lanchesmac\\lanchesmac\\areas\\admin\\controllers\\admingraficocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\controllers\\admingraficocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\lanchesmac\\lanchesmac\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\lanchesmac\\lanchesmac\\areas\\admin\\controllers\\admincategoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\areas\\admin\\controllers\\admincategoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\lanchesmac\\lanchesmac\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|c:\\users\\master\\documents\\estudos\\asp-.net-mvc\\lanchesmac\\lanchesmac\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -14,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1471,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,12 +69,138 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminGraficoController.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Areas\\Admin\\Controllers\\AdminGraficoController.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Controllers\\AdminGraficoController.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Areas\\Admin\\Controllers\\AdminGraficoController.cs",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Controllers\\AdminGraficoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:28:00.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:27:57.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminCategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Areas\\Admin\\Controllers\\AdminCategoriasController.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Areas\\Admin\\Controllers\\AdminCategoriasController.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Areas\\Admin\\Controllers\\AdminCategoriasController.cs",
+              "RelativeToolTip": "LanchesMac\\Areas\\Admin\\Controllers\\AdminCategoriasController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:27:41.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarrinhoCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Models\\CarrinhoCompra.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Models\\CarrinhoCompra.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Models\\CarrinhoCompra.cs",
+              "RelativeToolTip": "LanchesMac\\Models\\CarrinhoCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:06:28.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "LanchesMac\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:06:18.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriaMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Components\\CategoriaMenu.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Components\\CategoriaMenu.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Components\\CategoriaMenu.cs",
+              "RelativeToolTip": "LanchesMac\\Components\\CategoriaMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:06:15.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LanchesMac\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:03:32.217Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Models\\Categoria.cs",
+              "RelativeToolTip": "LanchesMac\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:02:38.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarrinhoCompraItem.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Models\\CarrinhoCompraItem.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Models\\CarrinhoCompraItem.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Models\\CarrinhoCompraItem.cs",
+              "RelativeToolTip": "LanchesMac\\Models\\CarrinhoCompraItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:00:59.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarrinhoCompraResumo.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Components\\CarrinhoCompraResumo.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Components\\CarrinhoCompraResumo.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\Components\\CarrinhoCompraResumo.cs",
+              "RelativeToolTip": "LanchesMac\\Components\\CarrinhoCompraResumo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:57:33.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\ASP-.NET-MVC\\LanchesMac\\LanchesMac\\appsettings.Development.json",
               "RelativeDocumentMoniker": "LanchesMac\\appsettings.Development.json",

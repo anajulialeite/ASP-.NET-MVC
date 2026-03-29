@@ -58,7 +58,7 @@ dotnet run
 ```
 Acesso no navegador:
 ```bash
-https://localhost: XXXX
+https://localhost:7064
 ```
 
 ---

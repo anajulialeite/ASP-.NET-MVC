@@ -9,7 +9,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" align="center" width="50" height="50"/>
 <br>
           
-Este projeto foi desenvolvido com o objetivo de aplicar, na prática, os principais conceitos do desenvolvimento web utilizando **ASP.NET MVC** e **Entity Framework Core**, por meio da criação de um site dinâmico para **vendas de lanches funcionais**. Este repositório é parte prática de um curso voltado ao aprofundamento em **ASP.NET MVC**. A cada etapa, novos recursos são adicionados, com foco em boas práticas, organização em camadas e experiência do usuário.
+Este projeto foi desenvolvido como parte prática de um curso de ASP.NET Core MVC, com o objetivo de aplicar conceitos de desenvolvimento web por meio da criação de um site dinâmico para venda de lanches. Durante o desenvolvimento, foram implementados recursos relacionados à persistência de dados, autenticação, carrinho de compras, organização da aplicação e experiência do usuário.
 
 ## Tecnologias e Conceitos Utilizados
 

@@ -65,20 +65,27 @@ https://localhost:7064
 
 ## Pré-requisitos
 
-- .NET SDK Instalados
-- Um editor como Visual Studio 2022 ou Visual Studio Code
+- .NET 8 SDK
+- SQL Server ou SQL Server Express
+- Visual Studio 2022 ou outro editor compatível com .NET
 
 ---
 
 ## Funcionalidades Implementadas
 
-- Cadastro e login de usuários
-- Visualização de tipos de lanches
-- Página de contato funcional
-- Busca de lanches por nome
-- Registro de novos usuários
-- Integração com banco de dados SQL Server
-
+- Cadastro, autenticação e logout de usuários com ASP.NET Core Identity
+- Controle de acesso administrativo por roles
+- Visualização e busca de lanches por nome e categoria
+- Carrinho de compras com gerenciamento de sessão
+- Registro e gerenciamento de pedidos
+- Página de contato
+- Área administrativa para gerenciamento de lanches, categorias e pedidos
+- Upload e gerenciamento de imagens
+- Paginação e ordenação de dados
+- Relatórios de vendas com filtro por período
+- Gráficos de vendas anuais, mensais e semanais
+- Persistência de dados com Entity Framework Core e SQL Server
+  
 ---
 
 ## Demonstração

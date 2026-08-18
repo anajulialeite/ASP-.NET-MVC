@@ -90,7 +90,7 @@ https://localhost:7064
 
 ## Demonstração
 
-<img src="Imagem/LanchesMac.png" alt="lanches" align="center" width="300">
+<img src="Imagem/LanchesMac.png" alt="lanches" align="center" width="800">
 
 ---
 
